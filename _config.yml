@@ -30,7 +30,7 @@ twitter_username: jpillar_22
 github_username:  jampillar
 
 # Build settings
-theme: minima
+theme: jekyll theme prologue
 plugins:
   - jekyll-feed
 
