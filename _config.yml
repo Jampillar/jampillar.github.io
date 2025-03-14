@@ -30,9 +30,10 @@ twitter_username: jpillar_22
 github_username:  jampillar
 
 # Build settings
-theme: jekyll theme prologue
+remote_theme: chrisbobbe/jeykll-theme-prologue
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
