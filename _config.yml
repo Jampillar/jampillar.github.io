@@ -25,14 +25,6 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://thepeach.net" # the base hostname & protocol for your site, e.g. http://example.com
 
-#Make it easier to organize the site
-collections:
-  sections:
-    output: true
-    order:
-      - about
-      - index
-      - kc7
 
 
 #Social media links
