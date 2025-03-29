@@ -40,6 +40,8 @@ linkedin_url: https://www.linkedin.com/in/jamespillar/
 
 # Build settings
 remote_theme: chrisbobbe/jekyll-theme-prologue
+collections: [sections]
+
 plugins:
   - jekyll-remote-theme
   - jekyll-paginate
