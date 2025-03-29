@@ -37,8 +37,9 @@ collections:
   sections:
     output: true
     order:
-      - index
       - about
+      - index
+      - kc7
 
 # Build settings
 remote_theme: chrisbobbe/jekyll-theme-prologue
