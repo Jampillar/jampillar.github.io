@@ -21,16 +21,25 @@
 title: ThePeach
 email: jampillar@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  KC7 write-ups and cybersecurity blog
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "jampillar.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-collections: [sections]
+url: "https://thepeach.net" # the base hostname & protocol for your site, e.g. http://example.com
+
+#Social media links
 twitter_username: jpillar_22
 github_username:  jampillar
 
+#New logo for the site
 avatar: assets/images/logo.png
+
+#Make it easier to organize the site
+collections: [sections]
+collections:
+  sections:
+    output: true
+    order:
+      - index
+      - about
 
 # Build settings
 remote_theme: chrisbobbe/jekyll-theme-prologue
