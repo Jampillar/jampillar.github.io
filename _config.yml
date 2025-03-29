@@ -25,13 +25,6 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://thepeach.net" # the base hostname & protocol for your site, e.g. http://example.com
 
-#Social media links
-twitter_username: jpillar_22
-github_username:  jampillar
-
-#New logo for the site
-avatar: assets/images/logo.png
-
 #Make it easier to organize the site
 collections:
   sections:
@@ -40,6 +33,15 @@ collections:
       - about
       - index
       - kc7
+
+
+#Social media links
+twitter_username: jpillar_22
+github_username:  jampillar
+
+#New logo for the site
+avatar: assets/images/logo.png
+
 
 # Build settings
 remote_theme: chrisbobbe/jekyll-theme-prologue
