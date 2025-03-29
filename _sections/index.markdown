@@ -4,7 +4,7 @@
 
 layout: Home
 icon: fa-user-secret
-order: 3
+order: 1
 ---
 
 Welcome to The Peach!  
