@@ -33,7 +33,6 @@ github_username:  jampillar
 avatar: assets/images/logo.png
 
 #Make it easier to organize the site
-collections: [sections]
 collections:
   sections:
     output: true
