@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Kc7
+title: KC7
 icon: fa-user
 order: 3
 ---
