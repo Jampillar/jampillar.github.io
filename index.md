@@ -13,7 +13,7 @@ Whether you’re a fellow student, a beginner in the field, or someone curious a
 
 ## 🛠 What You’ll Find Here
 
-- **KC7 Write-ups** — step-by-step breakdowns of challenges from [CyberDefenders KC7](https://kc7.cyberdefenders.org)
+- **KC7 Write-ups** — step-by-step breakdowns of challenges from [CyberDefenders KC7](https://kc7cyber.com/)
 - **Learning Logs** — notes and summaries from my hands-on labs and coursework
 
 ## 📬 Why This Blog Exists
