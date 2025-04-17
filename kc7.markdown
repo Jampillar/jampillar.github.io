@@ -2,6 +2,7 @@
 layout: blog
 title: KC7-Blog
 icon: fa-pencil-alt
+permalink: /kc7/
 order: 3
 ---
 

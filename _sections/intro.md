@@ -1,19 +1,15 @@
 ---
-layout: default
-title: Home
+title: intro
 auto-header: none
 icon: fa-comment
 order: 1
 ---
-Welcome to The Peach! 🍑  
-This blog contains KC7 write-ups and cybersecurity walkthroughs.
-
 <header>
-  <h2 class="alt">Hi! I'm <strong>Prologue</strong>, a <a href="http://html5up.net/license">free</a> responsive<br />
-  site template designed by <a href="http://html5up.net/prologue">HTML5 UP</a>.</h2>
-  <p>Adapted for Jekyll by <a href=https://chrisbobbe.github.io/>Chris Bobbe</a>. Get started on <a href="https://github.com/chrisbobbe/jekyll-theme-prologue">GitHub!</a></p>
+  <h2 class="alt">Welcome to <strong>The Peach</strong>, my cybersecurity blog 🍑</h2>
+  <p>I’m documenting my journey through hands-on challenges, write-ups, and projects —
+     one packet, post, and puzzle at a time.</p>
 </header>
 
 <footer>
-  <a href="#portfolio" class="button scrolly">Magna Aliquam</a>
+  <a href="/kc7/" class="button">Explore KC7 Write-ups</a>
 </footer>
