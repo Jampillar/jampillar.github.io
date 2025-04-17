@@ -50,4 +50,6 @@ Cybersecurity-focused Information Systems student with hands-on experience in lo
 ## 🎓 Education
 
 **Utah State University** — *B.S. Information Systems, Cybersecurity Emphasis*  
+*Minor: Data Analytics*  
+
 _Expected Dec 2025_
