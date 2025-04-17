@@ -1,5 +1,6 @@
 ---
-title: Intro
+layout: default
+title: Home
 auto-header: none
 icon: fa-comment
 order: 1
