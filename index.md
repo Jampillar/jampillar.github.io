@@ -1,6 +1,6 @@
 ---
 layout: home
-title: My Great Homepage
+title: Home
 icon: fa-home
 order: 1
 ---
