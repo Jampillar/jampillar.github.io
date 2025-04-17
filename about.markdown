@@ -1,14 +1,53 @@
 ---
 layout: page
-title: About me
-icon: fa-user
+title: Resume
+icon: fa-file
 order: 2
 ---
+# James Pillar
 
-Hey, I'm James
+📍 Logan, UT | 💻 Cybersecurity Student  
+📧 jampillar@gmail.com | [GitHub](https://github.com/jampillar) | [LinkedIn](https://linkedin.com/in/yourhandle)
 
-I'm a student at Utah State University studying Information Systems with an emphasis in CyberSecurity. This blog is where I share write-ups from the [KC7](https://kc7.com) platform, walkthroughs of labs and CTFs, and the occasional learning note.
+---
 
-I created **The Peach** as a side project to document my progress, build a portfolio of my problem-solving, and hopefully help others who are learning too.
+## 🎯 Summary
 
-This is my first time building a blog so I will be updating it more as time goes on, but for now I just wanted to build something that I can post on.
+Cybersecurity-focused Information Systems student with hands-on experience in log analysis, incident response, and network monitoring. Currently working through KC7 and personal homelab projects.
+
+---
+## 🎓 Education
+
+**Utah State University – Jon M. Huntsman School of Business**  
+*Bachelor of Science in Information Systems, Emphasis in Cybersecurity*  
+📍 Logan, UT — _Expected Graduation: Dec 2025_
+
+---
+
+## 💼 Projects
+
+**Automated Stock Trading Program** _(Apr 2024)_  
+- Developed an AWS-hosted algorithm using Bollinger bands and mean reversion to automate buy/sell decisions  
+- Pulled data from a live JSON API and transformed it into CSV for daily analysis  
+- Utilized Python and AWS services to ensure real-time market insights
+
+**Corporate Network Simulation & Security Optimization** _(Dec 2024)_  
+- Simulated an enterprise network using OpenWRT and VLAN-segmented Raspberry Pi with pi-hole DNS  
+- Managed DHCP, static IPs, SSH, and firewall rules to block malicious domains and boost security  
+- Gained real-world experience in switch configuration, troubleshooting, and network hardening
+
+---
+
+## 🧠 Skills
+
+- SQL, AWS, Microsoft Office 
+- Linux, Kali Linux, Tableau,  
+- Python, Bash scripting, KQL  
+- Jekyll, GitHub Pages, Git, TCP/IP protocols
+
+---
+
+## 🎓 Education
+
+**Utah State University** — *B.S. Information Systems, Cybersecurity Emphasis*  
+_Expected Dec 2025_
