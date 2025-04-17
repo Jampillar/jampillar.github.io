@@ -4,11 +4,11 @@ icon: fa-user
 order: 2
 ---
 
-<a href="#" class="image featured"><img src="assets/images/pic08.jpg" alt="" /></a>
 
-<p>Tincidunt eu elit diam magnis pretium accumsan etiam id urna. Ridiculus
-ultricies curae quis et rhoncus velit. Lobortis elementum aliquet nec vitae
-laoreet eget cubilia quam non etiam odio tincidunt montes. Elementum sem
-parturient nulla quam placerat viverra mauris non cum elit tempus ullamcorper
-dolor. Libero rutrum ut lacinia donec curae mus vel quisque sociis nec
-ornare iaculis.</p>
+Hey, I'm James
+
+I'm a student at Utah State University studying Information Systems with an emphasis in CyberSecurity. This blog is where I share write-ups from the [KC7](https://kc7.com) platform, walkthroughs of labs and CTFs, and the occasional learning note.
+
+I created **The Peach** as a side project to document my progress, build a portfolio of my problem-solving, and hopefully help others who are learning too.
+
+This is my first time building a blog so I will be updating it more as time goes on, but for now I just wanted to build something that I can post on.
