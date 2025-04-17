@@ -40,7 +40,13 @@ linkedin_url: https://www.linkedin.com/in/jamespillar/
 
 # Build settings
 remote_theme: chrisbobbe/jekyll-theme-prologue
-collections: [sections]
+collections:
+  sections:
+    output: true
+    order:
+      - intro
+      - about
+      - kc7
 
 plugins:
   - jekyll-remote-theme
