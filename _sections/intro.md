@@ -11,5 +11,5 @@ order: 1
 </header>
 
 <footer>
-  <a href="/kc7/" class="button">Explore KC7 Write-ups</a>
+  <a href="/kc7/" class="button">Explore My Blog</a>
 </footer>
