@@ -1,5 +1,5 @@
 ---
-title: Threat Intelligence Report: Lazarus Group
+title: Threat Intelligence Report - Lazarus Group
 author: James
 layout: post
 date: 2025-04-30
